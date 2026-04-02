@@ -1,4 +1,4 @@
-import { Skill, SkillGraph } from '../types';
+import { Skill, SkillGraph } from './index';
 
 export class SkillGraphManager {
   private graph: SkillGraph;
